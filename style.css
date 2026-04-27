@@ -1,0 +1,21 @@
+body {
+  font-family: system-ui;
+  background: #d8f3dc;
+  color: black;
+  text-align:center;
+}
+h1{text-align:center;}
+#cats-info{text-align:center;
+background-color:#f8c8dc}
+h2{text-align:left;}
+ul{text-align:left;}
+h3{text-align:left;}
+ol{text-align:left;}
+.center-img{
+  display: block;
+  margin: 0 auto;
+}
+.left-img {
+  display: block;
+  margin-right: auto;
+}
